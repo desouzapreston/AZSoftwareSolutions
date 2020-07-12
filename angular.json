@@ -123,5 +123,8 @@
       }
     }
   },
-  "defaultProject": "daycaredemo"
+  "defaultProject": "daycaredemo",
+  "cli": {
+    "analytics": false
+  }
 }
