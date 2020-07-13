@@ -5,7 +5,9 @@ The main focus of this Angular8 project is to demonstrate nice UI design. So it 
 Animations: Keyframe and scrolling ; CSS Grid with hover user interaction ; Lazy Loading Video Background
 
 Please for now run with Microsoft Edge Browser - Currently working on a fix for the video background for Chrome
-Demo (any browser besides chrome): https://azsoftwaresolutions-e277e.web.app/
+Demo (any browser besides chrome): 
+
+### Demo : https://azsoftwaresolutions-e277e.web.app/
 
 
 # Project Is Still Under Development - Stay Tuned!
